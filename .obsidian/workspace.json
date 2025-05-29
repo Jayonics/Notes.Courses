@@ -11,14 +11,14 @@
             "id": "da4602394daa6969",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/recent-files-obsidian/data.json",
-                "bFile": ".obsidian/plugins/recent-files-obsidian/data.json",
-                "aRef": ""
+                "file": "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest2_Whizlabs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "PracticeTest2_Whizlabs"
             }
           },
           {
@@ -219,8 +219,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "da4602394daa6969",
+  "active": "39af057b29501e69",
   "lastOpenFiles": [
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest2_Whizlabs.md",
+    "Clippings",
     "Azure DevOps Engineer AZ-400/Practice Exams/Microsoft/Practice Assessment Report 1.md",
     "Azure DevOps Engineer AZ-400/Practice Exams/Microsoft/Practice Assessment Report 3.md",
     "Azure DevOps Engineer AZ-400/Practice Exams/Microsoft/Practice Assessment Report 2.md",
@@ -236,7 +238,6 @@
     "Azure DevOps Engineer AZ-400/Practice Exams/PracticeTest1_Whizlabs.md",
     "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/LMS  Whizlabs.md",
     "Azure DevOps Engineer AZ-400/Learning Material/Main.md",
-    "Clippings",
     "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/insight.min.js.download",
     "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/ckeditor_32-33_47_59.png",
     "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/unnamed.jpg",
