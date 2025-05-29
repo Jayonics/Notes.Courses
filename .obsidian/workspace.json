@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "cf77f223554440c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "378cecc915a837d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da4602394daa6969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PracticeTest1_Whizlabs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d4ccd173a8bd8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "15665586638b8d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39af057b29501e69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7de57c7b6495f6bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1692b014360286f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "86b0dc66a3d80595",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc2a7c008180a6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0013ec9cf07e7c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8531d1da35bc7cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PracticeTest1_Whizlabs"
+            }
+          },
+          {
+            "id": "50ee4fb9416f9811",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "417cc2949453318b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fb1f8d48ba5150a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "5c3af5c14e4056a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "da4602394daa6969",
+  "lastOpenFiles": [
+    "MS AZ-400 Practice Assessment 3/Practice Assessment Report.md",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs.md",
+    "MS AZ-400 Practice Assessment 3",
+    "Azure DevOps Engineer AZ-400/Practice Exams/PracticeTest1_Whizlabs.md",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/LMS  Whizlabs.md",
+    "Azure DevOps Engineer AZ-400/Learning Material/Main.md",
+    "Clippings",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/insight.min.js.download",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/ckeditor_32-33_47_59.png",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/unnamed.jpg",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/295393728916254",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/4221982057898902",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/fbevents.js.download",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/main.c4334dd3.js.download",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/main.38e6bbd5.css",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/17.9ba32ee6.chunk.css",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/762.a298fefb.chunk.css",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/logo-small.0a63f5c2ad6e01fb94c282c8d9aa607b.svg",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/free-img.fe6f43cca8f96f03729ce96f5ad11aa5.svg",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/loader.3983d4383a28019b4adf736dd11087df.svg",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/Microsoft-Azure-DevOps-Solutions-(AZ-400).webp",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/reports-attempt-icon.eef817231be279a2889c41f5d4cb7a1b.svg",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/reports-marks-obtained.60bf40614f84e180121096c831f5c398.svg",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/reports-scrore.db803ff3998310b2cd23ec28f08c39bf.svg",
+    "Azure DevOps Engineer AZ-400/Practice Exams/Whizlabs/PracticeTest1_Whizlabs_files/reports-time-tacken.3f85260b655259d2bab6654cf0e2afa6.svg",
+    "create a link.md",
+    "Azure DevOps Engineer AZ-400/Learning Material/Untitled.md",
+    "Welcome.md"
+  ]
+}
